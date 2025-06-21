@@ -21,13 +21,14 @@ This repository contains projects, assignments, and practice work completed duri
 - 🚧 Upcoming: Build and document full-stack web applications
 
 
-## 📂 Repository Structure
-/project-1/          # Project 1 folder with source code and documentation  
-/project-2/          # Project 2 folder with assignments and notes  
-/practice-scripts/   # JavaScript and React practice exercises  
-README.md            # Project overview and documentation  
-.gitignore           # Node.js specific git ignore rules 
 
+## 📂 Repository Structure
+📁 /project-1/ – *(To be added)* – Placeholder for the first full-stack project  
+📁 /project-2/ – *(To be added)* – Placeholder for the second project or module  
+📁 /practice-scripts/ – *(In Progress)* – Will contain JavaScript and React practice exercises  
+📄 README.md – Contains internship overview, learning goals, and documentation  
+⚙️ .gitignore – Hides unnecessary files from Git, based on Node.js setup  
+ 
 
 ## 🎯 Goals
 - 💪 Strengthen MERN stack development skills  
