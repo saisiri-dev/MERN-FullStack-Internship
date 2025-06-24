@@ -43,3 +43,4 @@ Day 1 was focused on giving an **overview of web development**, tools, technolog
 
 ## 📁 No files for Day 1
 Only theory and introduction covered.
+
