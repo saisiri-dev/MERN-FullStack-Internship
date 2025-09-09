@@ -1,4 +1,4 @@
-# Day 1 - Introduction to Web Development 🚀
+# Session 1 - Introduction to Web Development 🚀
 
 ## 📅 Date: 27th May 2025  
 ## 📍 Internship: Full Stack Web Development - Blackbucks

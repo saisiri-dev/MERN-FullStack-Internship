@@ -1,4 +1,4 @@
-# 📘 Day 2 – HTML Recap & JavaScript Execution Methods
+# 📘 Session 2 – HTML Recap & JavaScript Execution Methods
 📅 Date: 28th May 2025  
 🏢 Internship: MERN Full Stack @ Blackbucks
 
@@ -52,4 +52,3 @@
 
 ## 📝 Summary:
 > Today I built foundational knowledge in HTML and learned three ways to use JavaScript — via browser console, external JS files, and inline/internal scripts. These methods are essential for web development and will help me as I move into dynamic web interactivity.
-
